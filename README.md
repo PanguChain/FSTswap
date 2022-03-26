@@ -41,7 +41,7 @@ how to submit
 https://fswap.vip
 
 
-FstSwap 的令牌
+#  FstSwap 的令牌
 
 概述
 这是 FstSwap 根据社区要求添加代币和更新代币徽标的 repo。一旦 PR 被接受，您的令牌或徽标将在 FstSwap上更新。请阅读以下教程。
